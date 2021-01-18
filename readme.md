@@ -1,7 +1,9 @@
 Frontend Developer with some knowledge of Backend Development using NodeJS and MySQL. I originally studied User Interaction Design and then started pursing web development development. 
 
 **Website**: https://manuelosogithub.io
+
 **LinkedIn**: https://linkedin.com/manuel-osorio
+
 **Twitter**: https://twitter.com/theManuelOsorio
 
 ## Tools
@@ -11,7 +13,7 @@ Frontend Developer with some knowledge of Backend Development using NodeJS and M
 
 <img src="./img/html5-brands.svg" style="margin-left:16px;" width="50px" alt="html5"/>&nbsp;&nbsp;&nbsp;<img src="./img/css3-brands.svg" style="margin-left:16px;" width="50px" />&nbsp;&nbsp;&nbsp;<img src="./img/js-brands.svg" style="margin-left:16px;" width="50px" />&nbsp;&nbsp;&nbsp;<img src="./img/sass-brands.svg" style="margin-left:16px;" width="50px" alt="SASS"/>&nbsp;&nbsp;&nbsp;<img src="./img/php-brands.svg" style="margin-left:16px;" width="50px" alt="PHP"/>
 
-
+<hr>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manuelosorio&count_private=true&layout=compact&hide_rank=true)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=manuelosorio&count_private=true&layout=compact)
