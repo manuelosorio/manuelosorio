@@ -2,7 +2,7 @@ Frontend Developer with some knowledge of Backend Development using NodeJS and M
 
 **Website**: https://manuelosogithub.io
 
-**LinkedIn**: https://linkedin.com/manuel-osorio
+**LinkedIn**: https://www.linkedin.com/in/manuel-osorio/
 
 **Twitter**: https://twitter.com/theManuelOsorio
 
