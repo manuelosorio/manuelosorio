@@ -6,7 +6,7 @@ Frontend Developer with some knowledge of Backend Development using NodeJS and M
 
 **Twitter**: https://twitter.com/theManuelOsorio
 
-<a href='./resume.pdf' target="_blank" refer>Resume</a>
+<a href='https://manuelosorio.github.io/resume.pdf' target="_blank">Resume</a>
 
 ## Tools
 <img src="./img/angular-brands.svg" style="margin-left:16px;" width="50px" alt="Angular 11"/>&nbsp;&nbsp;&nbsp;<img src="./img/git-brands.svg" style="margin-left:16px;" width="50px" alt="Git Version Control"/>&nbsp;&nbsp;&nbsp;<img src="./img/gulp-brands.svg" style="margin-left:16px;"  width="50px" alt="Gulp"/>&nbsp;&nbsp;&nbsp;<img src="./img/node-js-brands.svg" style="margin-left:16px;"  width="50px" alt="Node JS"/>&nbsp;&nbsp;&nbsp;<img src="./img/npm-brands.svg" style="margin-left:16px;" width="50px" alt="Node Package Manager"/>&nbsp;&nbsp;&nbsp;<img src="./img/yarn-brands.svg" style="margin-left:16px;" width="50px" alt="Yarn Package Manager"/>&nbsp;&nbsp;&nbsp;<img src="./img/laravel-brands.svg" style="margin-left:16px;" width="50px" alt="Laravel"/>
