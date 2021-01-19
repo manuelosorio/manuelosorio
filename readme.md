@@ -1,6 +1,6 @@
 Frontend Developer with some knowledge of Backend Development using NodeJS and MySQL. I originally studied User Interaction Design and then started pursing web development. 
 
-**Website**: https://manuelosogithub.io
+**Website**: https://manuelosorio.github.io
 
 **LinkedIn**: https://www.linkedin.com/in/manuel-osorio/
 
