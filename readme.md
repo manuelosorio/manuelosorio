@@ -1,4 +1,4 @@
-Frontend Developer with some knowledge of Backend Development using NodeJS and MySQL. I originally studied User Interaction Design and then started pursing web development. 
+Frontend Developer with some knowledge of Backend Development using NodeJS and MySQL. I originally studied User Interaction Design and then started pursing fullstack web development. 
 
 **Website**: https://manuelosorio.me
 
