@@ -1,4 +1,6 @@
-Frontend Developer with some knowledge of Backend Development using NodeJS and MySQL. I originally studied User Interaction Design and then started pursing fullstack web development. 
+Hi, I’m Manuel Osorio—a Fullstack JavaScript Developer with a solid foundation in Graphic Design. My journey in web development is driven by a focus on creating seamless, user-centered experiences. I work across the entire stack, using front-end frameworks like Angular and React, as well as back-end technologies like Node.js and PHP, to build robust applications. My expertise extends to database management with systems like MySQL, PostgreSQL, and MongoDB, ensuring data is handled efficiently.
+
+In addition to coding, I have a strong eye for design, utilizing tools like Figma, Adobe XD, and Photoshop to create intuitive and visually appealing interfaces. Whether it’s optimizing for SEO, implementing mobile-first designs, or managing complex projects with Git and Webpack, I bring a well-rounded skill set to every project.
 
 **Website**: https://manuelosorio.me
 
