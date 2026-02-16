@@ -19,6 +19,7 @@ In addition to coding, I have a strong eye for design, utilizing tools like Figm
 
 ##  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manuelosorio&count_private=true&layout=compact&hide_rank=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=manuelosorio&count_private=true&layout=compact)
+![Manuel Osorio Github stats](https://github-stats.apps.manuelosor.io/api?username=manuelosorio&count_private=true&layout=compact&hide_rank=true)
+![Manuel Osorio Github stats](https://github-stats.apps.manuelosor.io/api/top-langs?username=manuelosorio&count_private=true&layout=compact)
+
 
