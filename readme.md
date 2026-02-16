@@ -23,3 +23,4 @@ In addition to coding, I have a strong eye for design, utilizing tools like Figm
 ![Manuel Osorio Github stats](https://github-stats.apps.manuelosor.io/api/top-langs?username=manuelosorio&count_private=true&layout=compact)
 
 
+
